@@ -1,2 +1,2 @@
 # LLM_Inference_on_Edge
-This project evaluates the performance of advanced language models, specifically NanoLLM and Ollama, on NVIDIA's Jetson AGX Orin for edge computing. It focuses on their operational viability, comparing efficiency metrics like inference speed, memory usage, and power consumption against GPT-2 as a baseline.
+This project evaluates the deployment of Sheared LLaMa and Open LLaMa on NVIDIA's Jetson AGX Orin, using GPT-2 as a baseline. It assesses performance, power consumption, and operational efficiency, highlighting trade-offs and suitability for edge computing in constrained environments
